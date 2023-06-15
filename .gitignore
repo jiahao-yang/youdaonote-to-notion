@@ -2,3 +2,5 @@
 *.iml
 cookies.json
 .python-version
+venv
+download
